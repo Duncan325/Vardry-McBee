@@ -1,39 +1,41 @@
-body {
-  text-align: center;
-  background-color: #DCDCDC;
-}
+<body>
+<!--Lines 2-4 are his name/life -->
+<h1>Vardry McBee</h1>
+  <h2> <strong><em>"The Father of Greenville"</strong></em></h2>
+<h4>1775-1864</h4>
+<!-- picture below -->
+<img class="Vardry" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/VardryMcBee.jpg/250px-VardryMcBee.jpg"></img>
+<div class="First P">
+<p>Vardry McBee helped establish much of Upstate South Carolina's industry that is still widespread today.</p></div>
 
-h1 {
-  color: #b30000;
-  font-family: "Georgia", Serif;
-  }
-.Vardry {
-  border-style: solid;
-  border-color: #b30000;
-  border-width: 5px;
+<h5>He was a man of many talents!</h5>
+<div class="List">
+<ul>
+  <li>Saddlemaker</li>
+  <li>Merchant</li>
+  <li>Farmer</li>
+  <li>Entrepreneur</li>
+  <li>Philanthropist</li>
+  </ul></div>
+<h5>An Incredible Business Man!</h5>
+<div class="Second P">
+<p>McBee originally prospered from saddle making and being a merchant.  He used those abilities to progress into the railroad business which lead him to invest in various other buisness opportunities such as grist mills, saw mills, and even general stores for his employees.</p></div>
+<h5>A Religious Man!</h5>
+<div class="Third P">
+<p>Even though Vardry was considered a Quaker, he had a wide variety of religious beliefs. He often attended services for all different denominations. After buying over 11,000 acres (11,028 to be exact), he donated a good chunk to establish the first four churches for Greenville along with two academies. You can visit his grave downtown at Christ Episcopal Church.</p></div>
+<br></br>
+<div class="Ending">
+<p>For more information on Vardry McBee feel free to <a href="https://www.google.com/#q=Vardry+Mcbee">Google</a> him! There are plenty of resources! You can even walk downtown to his memorial statue and take a selfie!</p></div>
+<br></br>
 
-}
-.First P {
-  border-bottom-style: dotted;
-  padding-bottom: 2%;
-}
-h5 {
-  font-family: "Georgia", Serif;
-  font-size: 25px;
- }
-.List {
-  font-family: "Verdana", Serif;
-  font-size: 15px;
-}
-.IG{
-  border: none;
-}
-.Tweet{
-  border: none;
-}
-ul {
-  list-style-type: square;
- }
-h5 {
-  text-decoration: underline;
-}
+<div class="Thank you">
+  <p>Thanks for visiting my very first web page! Follow me on Instagram or Twitter to watch my journey through the matrix of programming!</p>
+  <div class="Social Media">
+  <a target="Instagram" href="https://www.instagram.com/dev_momlife/">
+  <img class="IG" src="http://www.rockfab.com/wp-content/uploads/2015/03/instagram-gif.gif" alt="IG" width="100"height="100">
+</a>
+  <a target="Twitter" href="https://twitter.com/devops_momlife">
+    <img class="Tweet" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Twitter_Logo_Mini.svg"alt="Twitter" width="100"height="100">
+  </a>
+  </div>
+</body>
