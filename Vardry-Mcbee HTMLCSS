@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  background-color: #DCDCDC;
+}
+
+h1 {
+  color: #b30000;
+  font-family: "Georgia", Serif;
+  }
+.Vardry {
+  border-style: solid;
+  border-color: #b30000;
+  border-width: 5px;
+
+}
+.First P {
+  border-bottom-style: dotted;
+  padding-bottom: 2%;
+}
+h5 {
+  font-family: "Georgia", Serif;
+  font-size: 25px;
+ }
+.List {
+  font-family: "Verdana", Serif;
+  font-size: 15px;
+}
+.IG{
+  border: none;
+}
+.Tweet{
+  border: none;
+}
+ul {
+  list-style-type: square;
+ }
+h5 {
+  text-decoration: underline;
+}
